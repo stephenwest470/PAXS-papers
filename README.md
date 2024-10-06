@@ -1,4 +1,5 @@
-# ABM-Papers
-ABMの論文執筆リポジトリ
+# Pax Sapientica Papers
+Repository for working papers related to Pax Sapientica
 
-[>> ABM 2024年06月](ABM202406.md)
+ASN78-ja.md
+ASN78-en.md

@@ -342,186 +342,186 @@ Koyama(1978)の人口推定方法を参考に、縄文時代晩期(J5)におけ�
 
 ## B-Model (Base Model)
 ### 人口
-<img width="500" alt="B-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/B-model-pop.png">
+<img width="500" alt="B-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/B-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="B-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/B-model-culture.png">
+<img width="500" alt="B-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/B-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="B-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/B-model-mtdna.png">
+<img width="500" alt="B-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/B-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="B-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/B-model-snp.png">
+<img width="500" alt="B-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/B-model-snp.png">
 
 ## C-Model (渡来開始年 = 800 BC)
 ### 人口
-<img width="500" alt="C-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/2177b392c01e8ad7330203cb223870fbaad8424a/Images/sim2024.10/C-model-pop.png">
+<img width="500" alt="C-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/C-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="C-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/2177b392c01e8ad7330203cb223870fbaad8424a/Images/sim2024.10/C-model-culture.png">
+<img width="500" alt="C-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/C-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="C-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/2177b392c01e8ad7330203cb223870fbaad8424a/Images/sim2024.10/C-model-mtdna.png">
+<img width="500" alt="C-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/C-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="C-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/2177b392c01e8ad7330203cb223870fbaad8424a/Images/sim2024.10/C-model-snp.png">
+<img width="500" alt="C-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/C-model-snp.png">
 
 ## D-Model (月間渡来人数 = 1人)
 ### 人口
-<img width="500" alt="D-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-pop.png">
+<img width="500" alt="D-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="D-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-culture.png">
+<img width="500" alt="D-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="D-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-mtdna.png">
+<img width="500" alt="D-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="D-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-snp.png">
+<img width="500" alt="D-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-snp.png">
 
 ## E-Model (月間渡来人数 = 10人)
 ### 人口
-<img width="500" alt="D-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-pop.png">
+<img width="500" alt="D-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="D-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-culture.png">
+<img width="500" alt="D-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="D-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-mtdna.png">
+<img width="500" alt="D-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="D-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/D-model-snp.png">
+<img width="500" alt="D-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/D-model-snp.png">
 
 ## F-Model (婚姻居住形態 = 妻方)
 ### 人口
-<img width="500" alt="F-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/F-model-pop.png">
+<img width="500" alt="F-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/F-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="F-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/F-model-culture.png">
+<img width="500" alt="F-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/F-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="F-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/F-model-mtdna.png">
+<img width="500" alt="F-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/F-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="F-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/F-model-snp.png">
+<img width="500" alt="F-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/F-model-snp.png">
 
 ## G-Model (婚姻居住形態 = 夫方)
 ### 人口
-<img width="500" alt="G-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/G-model-pop.png">
+<img width="500" alt="G-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/G-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="G-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/G-model-culture.png">
+<img width="500" alt="G-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/G-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="G-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/G-model-mtdna.png">
+<img width="500" alt="G-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/G-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="G-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/8a51777f1d015de59dafa565bfcb9067eeb9d791/Images/sim2024.10/G-model-snp.png">
+<img width="500" alt="G-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/G-model-snp.png">
 
 ## H-Model (婚姻可能距離 =<10km)
 ### 人口
-<img width="500" alt="H-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/H-model-pop.png">
+<img width="500" alt="H-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/H-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="H-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/H-model-culture.png">
+<img width="500" alt="H-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/H-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="H-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/H-model-mtdna.png">
+<img width="500" alt="H-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/H-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="H-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/H-model-snp.png">
+<img width="500" alt="H-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/H-model-snp.png">
 
 ## I-Model (婚姻可能距離 =<40km)
 ### 人口
-<img width="500" alt="I-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/I-model-pop.png">
+<img width="500" alt="I-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/I-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="I-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/I-model-culture.png">
+<img width="500" alt="I-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/I-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="I-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/I-model-mtdna.png">
+<img width="500" alt="I-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/I-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="I-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/I-model-snp.png">
+<img width="500" alt="I-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/I-model-snp.png">
 
 ## J-Model (月間集団移動 = 0.14%)
 ### 人口
-<img width="500" alt="J-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/J-model-pop.png">
+<img width="500" alt="J-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/J-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="J-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/J-model-culture.png">
+<img width="500" alt="J-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/J-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="J-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/J-model-mtdna.png">
+<img width="500" alt="J-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/J-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="J-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/J-model-snp.png">
+<img width="500" alt="J-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/J-model-snp.png">
 
 ## K-Model (月間集団移動 = 0.42%)
 ### 人口
-<img width="500" alt="K-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/K-model-pop.png">
+<img width="500" alt="K-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/K-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="K-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/K-model-culture.png">
+<img width="500" alt="K-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/K-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="K-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/K-model-mtdna.png">
+<img width="500" alt="K-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/K-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="K-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/K-model-snp.png">
+<img width="500" alt="K-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/K-model-snp.png">
 
 ## L-Model (集団移動距離 =<100km)
 ### 人口
-<img width="500" alt="L-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/L-model-pop.png">
+<img width="500" alt="L-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/L-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="L-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/L-model-culture.png">
+<img width="500" alt="L-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/L-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="L-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/L-model-mtdna.png">
+<img width="500" alt="L-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/L-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="L-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/L-model-snp.png">
+<img width="500" alt="L-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/L-model-snp.png">
 
 ## M-Model (集団移動距離 =<400km)
 ### 人口
-<img width="500" alt="M-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/M-model-pop.png">
+<img width="500" alt="M-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/M-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="M-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/M-model-culture.png">
+<img width="500" alt="M-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/M-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="M-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/M-model-mtdna.png">
+<img width="500" alt="M-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/M-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="M-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/M-model-snp.png">
+<img width="500" alt="M-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/M-model-snp.png">
 
 ## N-Model (農耕文化継承 = 25%)
 ### 人口
-<img width="500" alt="N-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/N-model-pop.png">
+<img width="500" alt="N-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/N-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="N-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/N-model-culture.png">
+<img width="500" alt="N-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/N-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="N-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/N-model-mtdna.png">
+<img width="500" alt="N-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/N-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="N-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/N-model-snp.png">
+<img width="500" alt="N-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/N-model-snp.png">
 
 
 ## O-Model (農耕文化継承 = 75%)
 ### 人口
-<img width="500" alt="O-Model 人口" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/O-model-pop.png">
+<img width="500" alt="O-Model 人口" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/O-model-pop.png">
 
 ### 農耕文化
-<img width="500" alt="O-Model 文化" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/O-model-culture.png">
+<img width="500" alt="O-Model 文化" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/O-model-culture.png">
 
 ### mtDNA
-<img width="500" alt="O-Model mtdna" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/O-model-mtdna.png">
+<img width="500" alt="O-Model mtdna" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/O-model-mtdna.png">
 
 ### 渡来人由来変異（ゲノム）
-<img width="500" alt="O-Model ゲノム" src="https://github.com/AsPJT/ABM-Papers/blob/48ade099c5fb5d796b5b716877b765e6a2838c47/Images/sim2024.10/O-model-snp.png">
+<img width="500" alt="O-Model ゲノム" src="https://github.com/stephenwest470/PAXS-papers/blob/d9cfdf1c227b624881acd0029f8036a18b5a2677/2024-ASN/Images/O-model-snp.png">
 
 ---
 

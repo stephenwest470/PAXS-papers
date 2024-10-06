@@ -1,5 +1,7 @@
 [English](README.md) | [日本語](README.ja.md) 
 
+![PAX SAPIENTICA Logo](https://github.com/AsPJT/PAX_SAPIENTICA/blob/develop/Images/Logo/TitleBanner4.svg)
+
 # Pax Sapientica Papers
 Repository for working papers and presentation materials related to Pax Sapientica.
 
